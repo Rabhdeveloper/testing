@@ -4,3 +4,4 @@ if hungry=="yes" or hungry=='y':
 else:
     print("holy cow you are hungry :: ) ")
     print("go eat something")
+    print("bye")
